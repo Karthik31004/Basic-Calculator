@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Alata');
+
+.btn    {
+    width: 70px;
+    height: 70px;
+    background-color: lightgray;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Alata;
+}
+
+.operator  {
+    background-color: orange;
+}
+.btn:hover  {
+    background-color: snow;
+}
+
+.operator:hover {
+    background-color: palegoldenrod;
+}

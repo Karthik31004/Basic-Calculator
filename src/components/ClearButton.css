@@ -1,0 +1,18 @@
+.clear {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  height: 40px;
+  background-color: lightgreen;
+  color: red;
+  font-size: 16px;
+  border-radius: 20px;
+  font-weight: bolder;
+}
+
+.clear:hover {
+  background-color: rgb(247, 58, 58);
+  color: white;
+}

@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Alata");
+
+.display {
+  height: 80px;
+  width: 90%;
+  margin: 15px;
+  border: 2px solid;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background-color: white;
+  font-family: Alata;
+}
+.input {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 18px;
+  margin-top: 5px;
+  margin-left: 5px;
+  width: 70%;
+}
+
+.answer {
+  font-size: 30px;
+  text-align: end;
+  margin: 0px 5px 5px 0px;
+}
